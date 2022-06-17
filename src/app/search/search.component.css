@@ -1,0 +1,9 @@
+.f-1 {
+  width: 50%;
+  border-radius: 15px;
+  display: inline-block;
+  margin: 20px;
+}
+.b-1 {
+  background-color: lightblue;
+}

@@ -1,0 +1,9 @@
+.header-1 {
+  background-color: lightblue;
+  text-align: center;
+  border-radius: 15px;
+}
+p {
+  font-size: 1.8em;
+  font-family: 'Courier New', Courier, monospace;
+}
